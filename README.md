@@ -11,11 +11,11 @@ Gestão de TI (UNIP), AWS, Firebase.
 <p align="center">
 
   <a href="https://www.linkedin.com/in/anterojunior/">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/a8abbf37441f3253f74ea255a47f289208d7568c/tree/main/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/a8abbf37441f3253f74ea255a47f289208d7568c/main/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.instagram.com/anterof5/">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/a8abbf37441f3253f74ea255a47f289208d7568c/tree/main/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/a8abbf37441f3253f74ea255a47f289208d7568c/main/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
 
 </p>
@@ -26,19 +26,19 @@ Gestão de TI (UNIP), AWS, Firebase.
 
 <p>
   <a href="">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Frameworks/laravel.svg" alt="Laravel" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Frameworks/laravel.svg" alt="Laravel" style="vertical-align:top; margin:4px">
   </a>
   <a href="">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
   </a>
  <a href="">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Frameworks/materialize.svg" alt="Materialize" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Frameworks/materialize.svg" alt="Materialize" style="vertical-align:top; margin:4px">
   </a>
  <a href="">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Frameworks/nodejs.svg" alt="NodeJS" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Frameworks/nodejs.svg" alt="NodeJS" style="vertical-align:top; margin:4px">
   </a>
  <a href="">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Frameworks/vue.svg" alt="VueJS" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Frameworks/vue.svg" alt="VueJS" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
@@ -46,22 +46,22 @@ Gestão de TI (UNIP), AWS, Firebase.
 
 <p>
   <a href="">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
   </a>
 	<a href="">
-		<img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Languages/js.svg" alt="JS" style="vertical-align:top; margin:4px">
+		<img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Languages/js.svg" alt="JS" style="vertical-align:top; margin:4px">
 	</a>
   <a href="">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Languages/php.svg" alt="PHP" style="vertical-align:top; margin:4px">
   </a>
  <a href="">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   </a>
  <a href="">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
   </a>
  <a href="">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Languages/csharp.svg" alt="CSharp" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Languages/csharp.svg" alt="CSharp" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
@@ -69,10 +69,10 @@ Gestão de TI (UNIP), AWS, Firebase.
 
 <p>
   <a href="">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Services/aws.svg" alt="AWS" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Services/aws.svg" alt="AWS" style="vertical-align:top; margin:4px">
   </a>
 	<a href="">
-		<img src="https://raw.githubusercontent.com/anterof5/anterof5/tree/main/Resources/Services/google_cloud_platform.svg" alt="Google Cloud" style="vertical-align:top; margin:4px">
+		<img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Services/google_cloud_platform.svg" alt="Google Cloud" style="vertical-align:top; margin:4px">
 	</a>
 
 <!--
