@@ -37,9 +37,7 @@ Gestão de TI (UNIP), AWS, Firebase.
     <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Frameworks/nodejs.svg" alt="NodeJS" style="vertical-align:top; margin:4px">
   </a>
  <a href="">
- <a href="">
-		<img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Frameworks/opencv.png" alt="OpenCV" style="vertical-align:top; margin:4px">
-	</a>
+ 
  <a href="">
     <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Frameworks/vue.svg" alt="VueJS" style="vertical-align:top; margin:4px">
   </a>
