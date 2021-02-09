@@ -11,11 +11,11 @@ Gestão de TI (UNIP), AWS, Firebase.
 <p align="center">
 
   <a href="https://www.linkedin.com/in/anterojunior/">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Social/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.instagram.com/anterof5/">
-    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/anterof5/anterof5/main/Resources/Social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
 
 </p>
