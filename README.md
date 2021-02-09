@@ -1,10 +1,9 @@
 ### Olá, me chamo Antero Júnior 👋
-
+Atualmente trabalho como desenvolvedor de intregrações entre sistemas ERP (TOTVS) e automação de processos (leitura e importação de arquivos).
 
 ---
 ### 🌱 Estou aprendendo
 Gestão de TI (UNIP), AWS, Firebase.
-
 
 ---
 ### 📢 Você pode me encontrar nas redes sociais
