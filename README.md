@@ -1,4 +1,4 @@
-### Hi there, I'm [Felipe Baltazar!](https://twitter.com/FelippeBaltazar) 👋
+### Hi there, I'm [Antero Júnior!](https://twitter.com/FelippeBaltazar) 👋
 
 <div align="center">
 
